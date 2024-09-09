@@ -49,6 +49,7 @@ Por fim, a pesquisa ainda revela que as técnicas utilizadas no dia a dia do Cie
 * Curso do livro acima no Youtube -> https://www.youtube.com/playlist?list=PLMZwWwAgHhmAB8-qg5HWkdB5VDr8ROeyj (Conteúdo sensacional também)
 * Livro Introduction to Statistical Learning (Python) -> https://www.statlearning.com/ (Livro aberto de stanford, um dos melhores conteúdos de ML abertos, mas é em inglês)
 * Curso do ISLP no youtube (Livro acima em inglês) -> https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ (Curso no youtube, aberto, coisa fina aqui!)
+* Approaching (Almost) Any Machine Learning Problem -> https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf (Livro em inglês de aplicações de ML. É escrito por um Kaggle Grandmaster que inclusive está por trás do Hugging Face, sim, a empresa de LLM open source)
 
 ### Faça muitos projetos
 
